@@ -1,0 +1,15 @@
+/home/userxp/Загрузки/Geek0/C#/Lekcia/C-_2022/Task002/bin/Debug/net6.0/Task002
+/home/userxp/Загрузки/Geek0/C#/Lekcia/C-_2022/Task002/bin/Debug/net6.0/Task002.deps.json
+/home/userxp/Загрузки/Geek0/C#/Lekcia/C-_2022/Task002/bin/Debug/net6.0/Task002.runtimeconfig.json
+/home/userxp/Загрузки/Geek0/C#/Lekcia/C-_2022/Task002/bin/Debug/net6.0/Task002.dll
+/home/userxp/Загрузки/Geek0/C#/Lekcia/C-_2022/Task002/bin/Debug/net6.0/Task002.pdb
+/home/userxp/Загрузки/Geek0/C#/Lekcia/C-_2022/Task002/obj/Debug/net6.0/Task002.csproj.AssemblyReference.cache
+/home/userxp/Загрузки/Geek0/C#/Lekcia/C-_2022/Task002/obj/Debug/net6.0/Task002.GeneratedMSBuildEditorConfig.editorconfig
+/home/userxp/Загрузки/Geek0/C#/Lekcia/C-_2022/Task002/obj/Debug/net6.0/Task002.AssemblyInfoInputs.cache
+/home/userxp/Загрузки/Geek0/C#/Lekcia/C-_2022/Task002/obj/Debug/net6.0/Task002.AssemblyInfo.cs
+/home/userxp/Загрузки/Geek0/C#/Lekcia/C-_2022/Task002/obj/Debug/net6.0/Task002.csproj.CoreCompileInputs.cache
+/home/userxp/Загрузки/Geek0/C#/Lekcia/C-_2022/Task002/obj/Debug/net6.0/Task002.dll
+/home/userxp/Загрузки/Geek0/C#/Lekcia/C-_2022/Task002/obj/Debug/net6.0/refint/Task002.dll
+/home/userxp/Загрузки/Geek0/C#/Lekcia/C-_2022/Task002/obj/Debug/net6.0/Task002.pdb
+/home/userxp/Загрузки/Geek0/C#/Lekcia/C-_2022/Task002/obj/Debug/net6.0/Task002.genruntimeconfig.cache
+/home/userxp/Загрузки/Geek0/C#/Lekcia/C-_2022/Task002/obj/Debug/net6.0/ref/Task002.dll
