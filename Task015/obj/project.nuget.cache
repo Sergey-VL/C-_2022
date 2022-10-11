@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ANKYyLLjWiP3A2Dr2kJrPuSLj0e1+sIFhdYL9fruxu1ztK5+Qx+01EtFf8SKimaC/rh8zj7ttJsv1wQOwIbBQ==",
+  "success": true,
+  "projectFilePath": "/home/userxp/Загрузки/Geek0/C#/Lekcia/C-_2022/Task015/Task015.csproj",
+  "expectedPackageFiles": [
+    "/home/userxp/.nuget/packages/microsoft.netcore.app.ref/6.0.9/microsoft.netcore.app.ref.6.0.9.nupkg.sha512",
+    "/home/userxp/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512",
+    "/home/userxp/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.9/microsoft.netcore.app.host.linux-x64.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
