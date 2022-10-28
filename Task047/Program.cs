@@ -1,13 +1,28 @@
 ﻿// Задача 47. Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
-double[,] a = new double[3, 4];
-
-Random random = new Random();
-for (int i = 0; i < 3; i++)
+Console.WriteLine("Задайте количество строк двумерного массива:");
+int m = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Задайте количество столбцов двумерного массива:");
+int n = Convert.ToInt32(Console.ReadLine());
+double[,] twoDimArray = new double[m, n];
+Random rnd = new Random();
+void PrintArray(double[,] matr)
 {
-    for (int j = 0; j < 4; j++)
+    for (int i = 0; i < m; i++)
     {
-        a[i, j] = random.NextDouble() * 100;
-        Console.Write("{0,6:F1}", a[i, j]);
+        for (int j = 0; j < n; j++)
+        { Console.Write($"{matr[i, j]} "); }
+        Console.WriteLine();
     }
-    Console.WriteLine();
 }
+
+void FillArray(double[,] matr)
+{
+    for (int i = 0; i < m; i++)
+    {
+        for (int j = 0; j < n; j++)
+        { matr[i, j] = Convert.ToDouble(rnd.Next(-100, 100) / 10.0); }
+    }
+}
+FillArray(twoDimArray);
+Console.WriteLine();
+PrintArray(twoDimArray);
